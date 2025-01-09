@@ -9,7 +9,7 @@
 - **Save & Organize:** Save your creations and organize them into albums for easy access.
 - **Share:** Share your artwork with friends and family.
 
-## How to Run 🚀
+## How to Run 
 
 1. Clone the repository:
    ```bash
