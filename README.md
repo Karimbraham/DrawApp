@@ -1,15 +1,15 @@
-# ArtisanSketch 🎨
+# ArtisanSketch 
 
 **ArtisanSketch** is a simple and fun Android application that allows users to easily create, edit, and share artwork. With an intuitive interface, it provides essential features for drawing, saving, and organizing pictures, making the creative process enjoyable.
 
-## Features ✨
+## Features 
 
 - **Create Artwork:** Draw with various tools like brushes, erasers, and shapes.
 - **Edit:** Easily change or undo edits to your artwork.
 - **Save & Organize:** Save your creations and organize them into albums for easy access.
 - **Share:** Share your artwork with friends and family.
 
-## How to Run 🚀
+## How to Run 
 
 1. Clone the repository:
    ```bash
@@ -24,18 +24,14 @@
 
 4. Start drawing and sharing your creations!
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 - **Framework:** Android (Java/Kotlin)
 - **UI:** Android Views and Custom Drawing Canvas
 - **Storage:** Local storage for saving images
 
-## Future Improvements 🌟
+## Future Improvements 
 
 - Add cloud storage support for saving and syncing drawings across devices.
 - Implement more drawing tools and customizable brush options.
 - Enhance image export options (PNG, JPG, etc.).
-
----
-
-Unleash your creativity with **ArtisanSketch**! 🎨 
